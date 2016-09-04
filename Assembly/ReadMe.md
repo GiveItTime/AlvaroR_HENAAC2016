@@ -1,1 +1,1 @@
-String_Hashing, hashes ten strings in assembly; that are specifically chosen for to have a high collision rate. My hashing algorithm drastically reduces these collisions.<br /> <br />Matrix_3x3 handles the multiplication of a 3x3 matix that is already hard coded into the program.
+String_Hashing, hashes ten strings in assembly; that are specifically hard coded in for a high collision rate. My hashing algorithm drastically reduces these collisions.<br /> <br />Matrix_3x3 handles the multiplication of a 3x3 matix that is already hard coded into the program.
