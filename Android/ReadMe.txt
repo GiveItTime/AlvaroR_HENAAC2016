@@ -1,2 +1,2 @@
 
-Calculates the horse power or the quarter mile time for any vehicle and stores information in a list for display.
+Scarne’s dice is an android app implementation of the turn-based dice game where players score points by rolling a die.
